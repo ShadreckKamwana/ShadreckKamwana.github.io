@@ -1,18 +1,29 @@
-body{
-  background-color: rgb(34, 36, 58);
+#heading{
+
+
+    height: 100px;
+    width: 100%;
+    background-color: rgb(33, 33, 104);
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+    border: 2px solid white;
+    padding-top: 20px;
 }
 
-h3{
-  color: white;
+#heading h1{
+
+    display: block;
+    margin: 0px;
 }
 
-.topnav {
-  overflow: hidden;
-  background-color: rgb(34, 36, 58);
-}
+.data{
 
-.topnav a{
-  float: left;
-  text-decoration: none;
-  color: white;
+
+    color: white;
+    font: bold;
+    font-size: large;
+    width: 500px;
+    display: block;
+
 }
